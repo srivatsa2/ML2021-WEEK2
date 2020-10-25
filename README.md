@@ -19,6 +19,7 @@
            2.job failure
            3.friendlloss
            4.parentloss
+           
    *If you select any option in above then it gives a motivation on that..
 
    *Submiting repl.it link: https://repl.it/join/woabgech-sampathpavan .
