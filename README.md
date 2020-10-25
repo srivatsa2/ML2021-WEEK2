@@ -31,13 +31,13 @@
 
    *Submiting repl.it link: 
    
-        https://repl.it/join/woabgech-sampathpavan . 
+        https://repl.it/join/woabgech-sampathpavan
       
 
    *YouTube link (DEMO VIDEO): 
    
-        https://youtu.be/MS3jkQDWbGQ .
-   
+        https://youtu.be/MS3jkQDWbGQ
+  
 
 
 
