@@ -1,0 +1,36 @@
+.heading{
+	color:white;
+	text-shadow: 2px 2px 8px #FF0000;
+	font-size: 65px;
+	margin-bottom: 20px;
+}
+body{
+	background-image: url("https://images.indianexpress.com/2020/03/delhi-rain-1-1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.input{
+	margin-top: 20px;
+	width:200px;
+	padding:10px;
+	border:1px solid black;
+	background-color:black;
+	color:white;
+}
+.submit{
+	margin-top: 20px;
+	width:100px;
+	background-color:skyblue;
+	padding:5px;
+	border:1px solid skyblue;
+	font-size: 15px;
+}
+.weather{
+	text-shadow: 2px 2px 5px #FF0000;
+	color:red;
+	font-size: 30px;
+	font-style: bold;
+}
+span{
+	font-size:40px;
+}
