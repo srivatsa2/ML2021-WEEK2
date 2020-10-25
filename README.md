@@ -29,14 +29,10 @@
            
    *If you select any option in above then it gives a motivation on that..
 
-   *Submiting repl.it link: 
-   
-        https://repl.it/join/woabgech-sampathpavan
+   *Submiting repl.it link: https://repl.it/join/woabgech-sampathpavan
       
 
-   *YouTube link (DEMO VIDEO): 
-   
-        https://youtu.be/MS3jkQDWbGQ
+   *YouTube link (DEMO VIDEO): https://youtu.be/MS3jkQDWbGQ
   
 
 
