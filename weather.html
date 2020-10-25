@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WeatherForecast</title>
+  <link rel="stylesheet" type="text/css" href="weather.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $(".input").on("click",function(){
+        $(".weather").hide();
+      })
+    });
+  </script>
+</head>
+<body>
+<center>
+  <h1 class="heading">WEATHER FORECAST</h1>
+  <span>Enter City name: </span><br>
+  <input type="text" class="input"><br>
+  <button class="submit">Submit</button>
+  <div class="weather">
+    <p class="name"></p>
+    <p class="mintemp"></p>
+    <p class="maxtemp"></p>
+    <p class="description"></p>
+    <p class="humidity"></p>
+    <p class="pressure"></p>
+  </div>
+  <script src="weather.js"></script>
+</center>
+</body>
+</html>
