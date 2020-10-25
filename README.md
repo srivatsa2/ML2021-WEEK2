@@ -3,9 +3,11 @@
 
 *We have done this website in a team of three and the collabarators are :18pa1a05g5,18pa1a0580,18pa1a05f0.
 
- *OBJECTIVES: It provides weather report and to motivate a person who has pain in breakup or lost his/her loved once or job.
+ *OBJECTIVES: 
+     It provides weather report and to motivate a person who has pain in breakup or lost his/her loved once or job.
  
- *DESCRIPTION:Firstly,our website ask you to choose an option that we provide as below:
+ *DESCRIPTION:
+     Firstly,our website ask you to choose an option that we provide as below:
                 1.Information about weather
                 2.Motivation
                 
