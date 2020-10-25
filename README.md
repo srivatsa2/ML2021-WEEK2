@@ -1,7 +1,13 @@
 # ML2021-WEEK2
 
 
-*We have done this website in a team of three and the collaborators are :18pa1a05g5,18pa1a0580,18pa1a05f0.
+*We have done this website in a team of three and the collaborators are :
+
+    1.18pa1a05g5
+   
+    2.18pa1a0580
+   
+    3.18pa1a05f0.
 
  OBJECTIVES: 
  
