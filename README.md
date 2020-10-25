@@ -14,9 +14,13 @@
 *If you select information about weather then it goes to other page and it asks you to enter city name then click submit button after it provides you the weather report of the given city name.And in case if you enter incorrect city name then it gives you alert message...
 
 *If you select motivation then it asks further option as below:
+
    "1.breakup
+   
    2.job failure
+   
    3.friendlloss
+   
    4.parentloss"
    
 *If you select any option in above then it gives a motivation on that..
