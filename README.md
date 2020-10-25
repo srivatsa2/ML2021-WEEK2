@@ -1,7 +1,7 @@
 # ML2021-WEEK2
 
 
-*We have done this website in a team of three and the collabarators are :18pa1a05g5,18pa1a0580,18pa1a05f0.
+*We have done this website in a team of three and the collaborators are :18pa1a05g5,18pa1a0580,18pa1a05f0.
 
  *OBJECTIVES: 
      It provides weather report and to motivate a person who has pain in breakup or lost his/her loved once or job.
@@ -21,7 +21,8 @@
    
 *If you select any option in above then it gives a motivation on that..
 
-*Submiting repl.it link: https://repl.it/join/woabgech-sampathpavan
+*Submiting repl.it link: https://repl.it/join/woabgech-sampathpavan.
+*youtube link(Demo video): 
 
 
 
