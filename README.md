@@ -5,7 +5,7 @@
 
  OBJECTIVES: 
  
-    *It provides weather report and to motivate a person who has pain in breakup or lost his/her loved ones or a job.
+    It provides weather report and to motivate a person who has pain in breakup or lost his/her loved ones or a job.
  
  DESCRIPTION:
  
@@ -29,9 +29,15 @@
            
    *If you select any option in above then it gives a motivation on that..
 
-   *Submiting repl.it link: https://repl.it/join/woabgech-sampathpavan .
+   *Submiting repl.it link: 
+   
+        https://repl.it/join/woabgech-sampathpavan . 
+      
 
-   *YouTube link (DEMO VIDEO): https://youtu.be/MS3jkQDWbGQ .
+   *YouTube link (DEMO VIDEO): 
+   
+        https://youtu.be/MS3jkQDWbGQ .
+   
 
 
 
