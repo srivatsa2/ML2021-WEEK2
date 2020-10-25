@@ -15,8 +15,11 @@
 
 *If you select motivation then it asks further option as below:
    1.breakup
+   
    2.job failure
+   
    3.friendlloss
+   
    4.parentloss
    
 *If you select any option in above then it gives a motivation on that..
